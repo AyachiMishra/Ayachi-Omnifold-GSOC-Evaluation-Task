@@ -7,7 +7,7 @@ You can download them from:
 
 Place the files in this directory:
 
-data/
+data/  
 ├── multifold.h5  
 ├── multifold_sherpa.h5  
 ├── multifold_nonDY.h5  
