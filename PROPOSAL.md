@@ -486,11 +486,11 @@ The "Thursday Delta": I will provide a weekly summary of progress, current issue
 1.	Canelli, Florencia, Kyle Cormier, Andrew Cudd, Dag Gillberg, Roger G. Huang, Weijie Jin, Sookhyun Lee et al. "A practical guide to unbinned unfolding." The European Physical Journal C 86, no. 2 (2026): 106.  https://arxiv.org/html/2507.09582v1 
 2.	My GitHub Repository:   https://github.com/AyachiMishra 
 3.	My LinkedIn profile: https://www.linkedin.com/in/ayachi-p-mishra-8ab952298/ 
-Ayachi P. Mishra  “Agricultural Recommendation System and Method using handhelled soiled monitoring with geo-tagged data.” India Patent No- 202541093222 and PCT Application No – PCT/IB2025/061635 
-4.	My evaluation Tasks: https://github.com/AyachiMishra/Ayachi-Omnifold-GSOC-Evaluation-Task/tree/main/evaluation_task 
-5.	Masreq Bank project repository: 
+4. Ayachi P. Mishra  “Agricultural Recommendation System and Method using handhelled soiled monitoring with geo-tagged data.” India Patent No- 202541093222 and PCT Application No – PCT/IB2025/061635: https://iprsearch.ipindia.gov.in/publicsearch
+5. My evaluation Tasks: https://github.com/AyachiMishra/Ayachi-Omnifold-GSOC-Evaluation-Task/tree/main/evaluation_task 
+6.	Masreq Bank project repository: 
 https://github.com/AyachiMishra/Mashreq_Bank_Social_Intelligence_System_With_Agentic_Workflow
-6.	PR: Guard against zero bin errors in chiSquare calculation (#21710)  https://github.com/root-project/root/pull/21710 
-7.	Issue: Model reuse across iterations in OmniFold (#18)	https://github.com/hep-lbdl/OmniFold/issues/18 
-8.	Academic Project: Heating Load prediction, https://github.com/AyachiMishra/Neural-Network-Based-Prediction-Of-Building-s-Heating-Load- 
+7.	PR: Guard against zero bin errors in chiSquare calculation (#21710)  https://github.com/root-project/root/pull/21710 
+8.	Issue: Model reuse across iterations in OmniFold (#18)	https://github.com/hep-lbdl/OmniFold/issues/18 
+9.	Academic Project: Heating Load prediction, https://github.com/AyachiMishra/Neural-Network-Based-Prediction-Of-Building-s-Heating-Load- 
 
