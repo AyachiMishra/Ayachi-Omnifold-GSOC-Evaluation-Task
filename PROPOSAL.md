@@ -11,6 +11,37 @@
 | CGPA         | 9.01/10                                              |
 
 
+# Table of Contents
+1. [About Me](#1-about-me)
+
+2. [Executive Summary](#2-executive-summary)
+
+3. [Project Core](#3-project-core)
+   - [3.1 Background and Motivation](#31-background-and-motivation)
+   - [3.2 Design Philosophy](#32-design-philosophy)
+   - [3.3 Tasks and Proposed Deliverables](#33-tasks-and-proposed-deliverables)
+     - [3.3.1 Metadata System](#331-metadata_system-for-metadata-and-naming-conventions-time-1-week-)
+     - [3.3.2 Weight Naming Convention and Observable Definitions](#332-elaborate-weight-naming-convention-and-observable-defintions-2-weeks)
+     - [3.3.3 Python API with CLI](#333-a-unified-pip-installable-python-api-with-cli-a-stretch-goal-time-2-weeks)
+     - [3.3.4 Model & Training Details Standardization](#334-model--training-details-standardization-1-week)
+     - [3.3.5 Validation Suite](#335-validation-suite-2-weeks)
+     - [3.3.6 Example Implementations and Notebooks](#336-example-implementations-and-notebooks-1-week)
+     - [3.3.7 HEPData Integration Layer](#337-hep-data-integration-layer-stretch-goal-2-weeks)
+   - [3.4 Project Roadmap and Milestone](#34-project-roadmap-and-milestone)
+     - [3.4.1 Community Bonding Period](#341-community-bonding-period-may-4--may-24-and-timeline)
+     - [3.4.2 Development Phase](#342-12-13-week-development-phase)
+     - [3.4.3 Continuous Feedback & Quality Control](#343-continuous-feedback--quality-control)
+
+4. [Contributions](#4-contributions)
+   - [4.1 ROOT (RooFit) – Numerical Stability Fix](#41-root-roofit--numerical-stability-fix)
+   - [4.2 Model Reuse in OmniFold Iterations](#42-model-reuse-in-omnifold-iterations)
+
+5. [Logistics: Time Commitment and Availability](#5-logistics-time-commitment-and-availability)
+
+6. [Communication Strategy](#6-communication-strategy)
+
+7. [References](#7-references)
+
 # 1. About Me
 I am Ayachi Padmanabh Mishra, a second-year 4th semester computer science and engineering 
 student at IIT Delhi - Abu Dhabi campus. My **CGPA is 9.01/10** and I am among the **top 10% of 
