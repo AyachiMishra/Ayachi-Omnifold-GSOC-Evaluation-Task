@@ -11,7 +11,6 @@
 | CGPA         | 9.01/10                                              |
 
 
-# Table Of Contents
 # 1. About Me
 I am Ayachi Padmanabh Mishra, a second-year 4th semester computer science and engineering 
 student at IIT Delhi - Abu Dhabi campus. My **CGPA is 9.01/10** and I am among the **top 10% of 
