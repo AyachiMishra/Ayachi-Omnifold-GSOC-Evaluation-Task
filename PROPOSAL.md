@@ -25,7 +25,7 @@ black box workflow which is reflected in my detailed explanations and notes deve
 evaluation tasks available in my: task files [5]. 
 
 **Prior Experience:**
-- **Domain Immersion**: Studied OmniFold through [Dr. Ben Nachman’s lecture]() (SMU speaker 
+- **Domain Immersion**: Studied OmniFold through [Dr. Ben Nachman’s lecture](https://www.youtube.com/watch?v=twVX_6l2Gm4) (SMU speaker 
 series) and reviewed key research papers (mainly the abstract and conclusion and if possible, 
 the summary of the methodology used). 
 
