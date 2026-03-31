@@ -33,7 +33,7 @@ the summary of the methodology used).
 multiple-module Python pipeline  and architecture, and designed a JSON-based governance 
 schema to ensure data consistency and safe handling across workflows (it primarily used a 
 waterfall model where the json schema grows module after module until the final 4th 
-module). This is available in my project repository [6]. 
+module). This is available in my [project repository](https://github.com/AyachiMishra/Mashreq_Bank_Social_Intelligence_System_With_Agentic_Workflow) [6]. 
 
 - **Experience With Neural Networks**: In my academic project in data science, I have built a 
 system to predict heating load of buildings. Inspired by physics, I redefined new building 
