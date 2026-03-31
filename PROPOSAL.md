@@ -18,7 +18,7 @@
 
 3. [Project Core](#3-project-core)
    - [3.1 Background and Motivation](#31-background-and-motivation)
-   - [3.2 Design Philosophy And Critical Decisions](#32-design-philosophy)
+   - [3.2 Design Philosophy And Critical Decisions](#32-design-philosophy-and-critical-decisions)
    - [3.3 Tasks and Proposed Deliverables](#33-tasks-and-proposed-deliverables)
      - [3.3.1 Metadata System](#331-metadata_system-for-metadata-and-naming-conventions-time-1-week-)
      - [3.3.2 Weight Naming Convention and Observable Definitions](#332-elaborate-weight-naming-convention-and-observable-defintions-2-weeks)
@@ -166,7 +166,7 @@ These challenges highlight the need for standardized publication and preservatio
 results, forming the core motivation for this project. 
 
 
-## 3.2. Design Philosophy
+## 3.2. Design Philosophy and Critical Decisions
 I will treat OmniFold results as a well-defined data product with attributes that capture provenace(origin), correctness and reusability. That said, there are some critical decisions and design philosophies I want to highlight about the system before any elaboration on proposed deliverables.
 
 **HDF or Parquet?**   
