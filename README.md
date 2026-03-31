@@ -1,4 +1,4 @@
-# Data
+# GSoC 2026 Proposal: Publication Of Omnifold Weights
 
 The OmniFold datasets used in this project are not stored in this repository due to their size.
 
