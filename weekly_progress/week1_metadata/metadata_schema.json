@@ -1,0 +1,7 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "metadata schema": "OmniFold dataset metadata Schema",
+    "purpose":"To set the rules for overall metadata which involves dataset identification, process name, authors, selection critieria, etc. ",
+    "type": "object",
+    "required": []
+}
