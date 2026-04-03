@@ -3,7 +3,7 @@
 [![GSoC 2026](https://img.shields.io/badge/GSoC-2026-blue.svg)](https://summerofcode.withgoogle.com/)
 [![HEP-ML](https://img.shields.io/badge/HEP-Machine%20Learning-orange.svg)](#)
 
-This repository contains the official project proposal and evaluation materials for the **GSoC 2026** project: **"OmniFold: Scientific Software Monitoring and Unfolding."** written by Ayachi Mishra
+This repository contains the official project proposal and evaluation materials for the **GSoC 2026** project: **"OmniFold: Scientific Software Monitoring and Unfolding"** submitted by Ayachi Mishra.
 
 ---
 
