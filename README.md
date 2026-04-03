@@ -12,7 +12,7 @@ This repository contains the official project proposal and evaluation materials 
 ```text
 .
 ├── evaluation_task/      # Phase 1: Selection & Evaluation assignments
-├── package_prototype/     # deliverables structured both into the final prototype and weekly milestones
+├── package_prototype/     # deliverables structured both into the final package and weekly milestones
 ├── LICENSE                # MIT License
 ├── PROPOSAL.md            # Phase 2: Finalized GSoC Project Proposal (v1.0)
 └── README.md              # Project Overview (You are here)
