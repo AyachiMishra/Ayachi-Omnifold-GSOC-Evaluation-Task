@@ -1,21 +1,22 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "OmniFold Master Dataset Schema",
+  "purpose":"referencing all other schemas",
   "type": "object",
-  "required": ["metadata_version", "weights", "observables", "nn_model"],
+  "required": ["metadata", "weights", "observables", "nn_model"],
   "properties": {
-    "metadata_version": { "type": "string" },
+    "metadata": { "$ref":"metadata_schema.json" },
     
     "weights": {
-      "$ref": "weights.json"
+      "$ref": "weights_schema.json"
     },
     
     "observables": {
-      "$ref": "observables.json"
+      "$ref": "observables_schema.json"
     },
     
     "nn_model": {
-      "$ref": "nn_model.json"
+      "$ref": "nn_model_schema.json"
     }
   }
 }
